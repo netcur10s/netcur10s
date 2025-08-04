@@ -8,21 +8,31 @@ I'm a technical specialist with over a decade of experience in troubleshooting a
 
 To apply my background in technical support and my growing cybersecurity skill set toward real-world blue team operations. I'm focused on learning threat detection, log analysis, and SOC workflows, and use this space to document projects and progress as I move into a cybersecurity career.
 
+## Projects
+### [Cyber Home Lab](https://github.com/victorechevarria/cyber-home-lab)
+A beginner-friendly SOC and AD lab built using Proxmox. Includes Windows domain, Splunk log collection, and ethical hacking walkthroughs based on TCM’s Practical Ethical Hacking course.
+
+### [TryHackMe & Hack The Box Writeups](https://github.com/victorechevarria/writeups) *(coming soon)*
+Notes and walkthroughs from TryHackMe's SOC Level 1 path and beginner friendly boxes from Hack the Box.
+
+<!-- <a href="https://github.com/victorechevarria/Active-Directory-Lab-build/blob/main/README.md">Active Directory Lab Build</a> -->
+
 ## Tools
 ### Network
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)
 
-### Endpoint
+<!-- ### Endpoint
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-0078D4?logo=windows&logoColor=white&style=flat)
 ![Velociraptor](https://img.shields.io/badge/Velociraptor-800000?logo=github&logoColor=white&style=flat)
-![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=flat&logo=hackthebox&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=flat&logo=hackthebox&logoColor=white) -->
+
 ### SIEM
 ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=flat)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?logo=elasticsearch&logoColor=white&style=flat)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-5C2D91?logo=microsoft&logoColor=white&style=flat)
+<!-- ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-5C2D91?logo=microsoft&logoColor=white&style=flat) -->
 
-### Ticketing
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat)
+<!-- ### Ticketing
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat) -->
 
 ## Certifications
 [![SSCP](https://img.shields.io/badge/SSCP-DC143C?style=flat&labelColor=DC143C&logoColor=white)](https://www.credly.com/badges/your-sscp-link)
@@ -31,11 +41,3 @@ To apply my background in technical support and my growing cybersecurity skill s
 [![Network+](https://img.shields.io/badge/Network%2B-228B22?style=flat&labelColor=228B22&logoColor=white)](https://www.credly.com/badges/your-networkplus-link)
 [![A+](https://img.shields.io/badge/A%2B-FF8C00?style=flat&labelColor=FF8C00&logoColor=white)](https://www.credly.com/badges/your-aplus-link)
 
-## Projects
-- Proxmox Lab Build
-- <a href="https://github.com/victorechevarria/Active-Directory-Lab-build/blob/main/README.md">Active Directory Lab Build</a>
-
-## Box Writeups
-- Silver platter
-- Outbound
-- Billing
