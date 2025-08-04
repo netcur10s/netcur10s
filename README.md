@@ -15,7 +15,7 @@ To apply my background in technical support and my growing cybersecurity skill s
 ### Endpoint
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-0078D4?logo=windows&logoColor=white&style=flat)
 ![Velociraptor](https://img.shields.io/badge/Velociraptor-800000?logo=github&logoColor=white&style=flat)
-
+![Volatility](https://img.shields.io/badge/Volatility-4B0082?style=flat&logo=hackthebox&logoColor=white)
 ### SIEM
 ![Splunk](https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=flat)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?logo=elasticsearch&logoColor=white&style=flat)
@@ -25,13 +25,17 @@ To apply my background in technical support and my growing cybersecurity skill s
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat)
 
 ## Certifications
-
-![CySA+](https://img.shields.io/badge/CompTIA-CySA+-blue?logo=comptia&logoColor=white&style=flat)
-![Security+](https://img.shields.io/badge/CompTIA-Security+-red?logo=comptia&logoColor=white&style=flat)
-![Network+](https://img.shields.io/badge/CompTIA-Network+-orange?logo=comptia&logoColor=white&style=flat)
-![A+](https://img.shields.io/badge/CompTIA-A+-black?logo=comptia&logoColor=white&style=flat)
-![SSCP](https://img.shields.io/badge/ISC2-SSCP-green?logo=isc2&logoColor=white&style=flat)
+[![SSCP](https://img.shields.io/badge/SSCP-DC143C?style=flat&labelColor=DC143C&logoColor=white)](https://www.credly.com/badges/your-sscp-link)
+[![CySA+](https://img.shields.io/badge/CySA%2B-8A2BE2?style=flat&labelColor=8A2BE2&logoColor=white)](https://www.credly.com/badges/your-cysa-link)
+[![Security+](https://img.shields.io/badge/Security%2B-0077B5?style=flat&labelColor=0077B5&logoColor=white)](https://www.credly.com/badges/your-securityplus-link)
+[![Network+](https://img.shields.io/badge/Network%2B-228B22?style=flat&labelColor=228B22&logoColor=white)](https://www.credly.com/badges/your-networkplus-link)
+[![A+](https://img.shields.io/badge/A%2B-FF8C00?style=flat&labelColor=FF8C00&logoColor=white)](https://www.credly.com/badges/your-aplus-link)
 
 ## Projects
 - Proxmox Lab Build
 - <a href="https://github.com/victorechevarria/Active-Directory-Lab-build/blob/main/README.md">Active Directory Lab Build</a>
+
+## Box Writeups
+- Silver platter
+- Outbound
+- Billing
