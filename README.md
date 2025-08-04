@@ -13,7 +13,6 @@ To apply my background in technical support and my growing cybersecurity skill s
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=flat)
 
 ### Endpoint
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat)
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-0078D4?logo=windows&logoColor=white&style=flat)
 ![Velociraptor](https://img.shields.io/badge/Velociraptor-800000?logo=github&logoColor=white&style=flat)
 
@@ -22,6 +21,8 @@ To apply my background in technical support and my growing cybersecurity skill s
 ![Elastic](https://img.shields.io/badge/Elastic-005571?logo=elasticsearch&logoColor=white&style=flat)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-5C2D91?logo=microsoft&logoColor=white&style=flat)
 
+### Ticketing
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat)
 
 ## Certifications
 
