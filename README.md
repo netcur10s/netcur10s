@@ -9,10 +9,10 @@ I'm a technical specialist with over a decade of experience in troubleshooting a
 To apply my background in technical support and my growing cybersecurity skill set toward real-world blue team operations. I'm focused on learning threat detection, log analysis, and SOC workflows, and use this space to document projects and progress as I move into a cybersecurity career.
 
 ## Projects
-### [Cyber Home Lab](https://github.com/victorechevarria/cyber-home-lab)
+### [Cyber Home Lab](https://github.com/victorechevarria/cyber-home-lab) *(coming soon)*
 A beginner-friendly SOC and AD lab built using Proxmox. Includes Windows domain, Splunk log collection, and ethical hacking walkthroughs based on TCM’s Practical Ethical Hacking course.
 
-### [TryHackMe & Hack The Box Writeups](https://github.com/victorechevarria/writeups) *(coming soon)*
+### [TryHackMe & Hack The Box Writeups](https://github.com/victorechevarria/ctf-writeups) *(coming soon)*
 Notes and walkthroughs from TryHackMe's SOC Level 1 path and beginner friendly boxes from Hack the Box.
 
 <!-- <a href="https://github.com/victorechevarria/Active-Directory-Lab-build/blob/main/README.md">Active Directory Lab Build</a> -->
