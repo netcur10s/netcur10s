@@ -1,4 +1,4 @@
-# Hi, I'm Victor!
+# Hi, I'm Victor 👋🏽
 
 I'm a technical specialist with over a decade of experience in troubleshooting and customer support. I'm currently transitioning into cybersecurity, focusing on blue team operations like threat detection, log analysis, and incident response.
 
@@ -6,7 +6,13 @@ I'm a technical specialist with over a decade of experience in troubleshooting a
 
 ## Objective
 
-To apply my background in technical support and my growing cybersecurity skill set toward real-world blue team operations. I'm focused on learning threat detection, log analysis, and SOC workflows, and use this space to document projects and progress as I move into a cybersecurity career.
+To apply my background in technical support and my growing cybersecurity skill set to real-world blue team operations. I'm currently focused on developing skills in:
+
+- Threat detection  
+- Log analysis  
+- SOC workflows  
+
+This space documents my journey and the projects I’m building along the way.
 
 ## Projects
 ### [Cyber Home Lab](https://github.com/victorechevarria/cyber-home-lab) *(coming soon)*
