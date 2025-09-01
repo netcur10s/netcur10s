@@ -13,13 +13,14 @@ I hope this becomes a resource not only for myself but also for other learners a
 **Labs**
 - [Active Directory Lab](labs/active-directory-lab/README.md)
  <!-- - [MITRE Caldera Emulation](labs/mitre-caldera/README.md) -->
+
+**Writeups**
+- [Cap - (HTB)](writeups/cap_writeup.md)
+
 **Notes**
 - [Ingesting Docker Container Logs into Splunk with Portainer
 ](notes/splunk-docker-portainer.md)
 - [Importing OVA/VMDK to Proxmox](notes/import-ova-vmdk.md)
-
-**Writeups**
-- [Cap - (HTB)](writeups/cap_writeup.md)
 
 ## Certifications
 ![CySA+](https://img.shields.io/badge/CySA+-29B6F6?logo=compTIA&logoColor=white) ![Security+](https://img.shields.io/badge/Security+-E63946?logo=compTIA&logoColor=white) ![Network+](https://img.shields.io/badge/Network+-457B9D?logo=compTIA&logoColor=white) ![A+](https://img.shields.io/badge/A+-2A9D8F?logo=compTIA&logoColor=white) ![SSCP](https://img.shields.io/badge/SSCP-6A4C93?logo=isc2&logoColor=white)  
