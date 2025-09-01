@@ -4,7 +4,7 @@
 > 
 
 
-![image.png](Splunk%20Log%20Ingestion%20from%20Docker%20Containers%20using%20%2026061db2b28f80308abdce673a50163e/image.png)
+![image.png](victorechevarria/images/image.png)
 
 
 ## **Prerequisites**
