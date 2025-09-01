@@ -10,9 +10,21 @@ This GitHub is my space to document my learning journey and share hands-on proje
 I hope this becomes a resource not only for myself but also for other learners and security enthusiasts who are on the same path.
 
 ## Contents
+**Labs**
+- [Active Directory Lab](labs/active-directory-lab/README.md)
+ <!-- - [MITRE Caldera Emulation](labs/mitre-caldera/README.md) -->
+**Notes**
+- [Ingesting Docker Container Logs into Splunk with Portainer
+](labs/splunk-docker-portainer.md)
+- [Splunk Cheat Sheet](notes/splunk-cheatsheet.md)
+- [CompTIA Pentest+ Study Notes](notes/pentest-plus-study-notes.md)
+
+**Projects**
+<!--   - [SOC Automation Scripts](projects/soc-automation-scripts/README.md)
+
 [Labs](https://github.com/victorechevarria/labs)<br>
 [Writeups](https://github.com/victorechevarria/writeups)<br>
-[Study Notes](https://github.com/victorechevarria/notes)
+[Study Notes](https://github.com/victorechevarria/notes) -->
 
 ## Certifications
 ![CySA+](https://img.shields.io/badge/CySA+-29B6F6?logo=compTIA&logoColor=white) ![Security+](https://img.shields.io/badge/Security+-E63946?logo=compTIA&logoColor=white) ![Network+](https://img.shields.io/badge/Network+-457B9D?logo=compTIA&logoColor=white) ![A+](https://img.shields.io/badge/A+-2A9D8F?logo=compTIA&logoColor=white) ![SSCP](https://img.shields.io/badge/SSCP-6A4C93?logo=isc2&logoColor=white)  
