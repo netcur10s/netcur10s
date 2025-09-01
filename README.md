@@ -11,7 +11,7 @@ I hope this becomes a resource not only for myself but also for other learners a
 
 ## Contents
 **Labs**
-- [Active Directory Lab](labs/active-directory-lab/README.md)
+- [Active Directory Lab](labs/active-directory-lab.md)
  <!-- - [MITRE Caldera Emulation](labs/mitre-caldera/README.md) -->
 
 **Writeups**
