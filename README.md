@@ -15,7 +15,7 @@ I hope this becomes a resource not only for myself but also for other learners a
  <!-- - [MITRE Caldera Emulation](labs/mitre-caldera/README.md) -->
 **Notes**
 - [Ingesting Docker Container Logs into Splunk with Portainer
-](labs/splunk-docker-portainer.md)
+](notes/splunk-docker-portainer.md)
 - [Splunk Cheat Sheet](notes/splunk-cheatsheet.md)
 - [CompTIA Pentest+ Study Notes](notes/pentest-plus-study-notes.md)
 
