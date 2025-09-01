@@ -3,6 +3,8 @@
 > This guide explains how to import OVA/VMDK files into Proxmox when using ZFS-backed storage. The imported files will be saved directly into the ZFS dataset designated for VM storage, rather than /var/lib/vz/, which is used for directory-based storage.
 > 
 
+<br>
+
 ## **Step 1: Identify Your ZFS Pool Storage Name**
 
 Run this on your Proxmox host:
@@ -24,7 +26,7 @@ Or check Proxmox Web UI:
 - **Datacenter → Storage**
 - Look for a storage of **type: ZFS** (e.g., rpool, tank, etc.)
 
----
+<br>
 
 ## **Step 2: Create a New VM with No Disk**
 
@@ -38,7 +40,7 @@ In the **Proxmox Web UI**:
 
 Note the **VM ID** (e.g., 105).
 
----
+<br>
 
 ## **Step 3: Convert VMDK/Ova to Raw or QCOW2 (if not done already)**
 
@@ -48,7 +50,7 @@ qemu-img convert -f vmdk -O raw <vm-name>.vmdk <vm-name>.raw
 
 ZFS prefers raw disk images for performance, but qcow2 also works.
 
----
+<br>
 
 ## **Step 4: Import the Disk to ZFS Properly**
 
@@ -69,8 +71,7 @@ This will create a ZFS volume like:
 ```
 <zfs-storage-location>/vm-<vmid>-disk-0
 ```
-
----
+<br>
 
 ## **Step 5: Attach the Imported Disk to VM**
 
@@ -84,7 +85,7 @@ In the Proxmox Web UI:
     - **Disk**: vm-<vmid>-disk-0
 4. Click **Add**
 
----
+<br>
 
 ## **Step 6: Add disk to boot order**
 
@@ -92,7 +93,7 @@ In the Proxmox Web UI:
 2. Add disk to boot order
 3. Make sure first item is vm-<vmid>-disk-0
 
----
+<br>
 
 ## **Step 7: Boot the VM**
 
