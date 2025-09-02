@@ -11,15 +11,14 @@ I hope this becomes a resource not only for myself but also for other learners a
 
 ## Contents
 **Projects**
-- [Active Directory Lab](labs/active-directory-lab.md)
+- [Active Directory Lab](ad-lab)
  <!-- - [MITRE Caldera Emulation](labs/mitre-caldera/README.md) -->
 
 **Writeups**
 - [Cap - (HTB)](writeups/cap_writeup.md)
 
 **Notes**
-- [Ingesting Docker Container Logs into Splunk with Portainer
-](notes/splunk-docker-portainer.md)
+- [Ingesting Docker Container Logs into Splunk with Portainer](notes/splunk-docker-portainer.md)
 - [Importing OVA/VMDK to Proxmox](notes/import-ova-vmdk.md)
 
 ## Certifications
