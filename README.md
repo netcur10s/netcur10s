@@ -10,7 +10,7 @@ This GitHub is my space to document my learning journey and share hands-on proje
 I hope this becomes a resource not only for myself but also for other learners and security enthusiasts who are on the same path.
 
 ## Contents
-**Labs**
+**Projects**
 - [Active Directory Lab](labs/active-directory-lab.md)
  <!-- - [MITRE Caldera Emulation](labs/mitre-caldera/README.md) -->
 
