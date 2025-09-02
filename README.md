@@ -16,7 +16,7 @@ I hope this becomes a resource not only for myself but also for other learners a
 
 **Writeups**
 - [HTB Writeups](https://github.com/netcur10s/htb-writeups/)
-- [THM Writeups](https://github.com/netcur10s/thm-writeups/README.md)
+- [THM Writeups](https://github.com/netcur10s/thm-writeups/)
   
 **Notes**
 - [Ingesting Docker Container Logs into Splunk with Portainer](notes/splunk-docker-portainer.md)
