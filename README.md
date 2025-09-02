@@ -9,19 +9,27 @@ This GitHub is my space to document my learning journey and share hands-on proje
 
 I hope this becomes a resource not only for myself but also for other learners and security enthusiasts who are on the same path.
 
-## Contents
-**Projects**
+## 📂 Contents
+### Projects
 - [Active Directory Lab](https://github.com/netcur10s/ad-lab)
  <!-- - [MITRE Caldera Emulation](labs/mitre-caldera/README.md) -->
 
-**Writeups**
+### Writeups
 - [HTB Writeups](https://github.com/netcur10s/htb-writeups/)
 - [THM Writeups](https://github.com/netcur10s/thm-writeups/)
   
-**Notes**
+### Notes
 - [Ingesting Docker Container Logs into Splunk with Portainer](notes/splunk-docker-portainer.md)
 - [Importing OVA/VMDK to Proxmox](notes/import-ova-vmdk.md)
 
-## Certifications
+## 🎯 Current Focus
+- Expanding Splunk detections with **Sigma rules → SPL queries**  
+- Documenting adversary emulations with MITRE CALDERA  
+- Strengthening SOC analyst workflows (alert triage, investigation, reporting)
+  
+## 📜 Certifications
 ![CySA+](https://img.shields.io/badge/CySA+-29B6F6?logo=compTIA&logoColor=white) ![Security+](https://img.shields.io/badge/Security+-E63946?logo=compTIA&logoColor=white) ![Network+](https://img.shields.io/badge/Network+-457B9D?logo=compTIA&logoColor=white) ![A+](https://img.shields.io/badge/A+-2A9D8F?logo=compTIA&logoColor=white) ![SSCP](https://img.shields.io/badge/SSCP-6A4C93?logo=isc2&logoColor=white)  
 
+## 📫 Let’s Connect
+- **LinkedIn:** [linkedin.com/in/vic1101](https://www.linkedin.com/in/vic1101/)  
+- **Email:** v.echevarria@proton.me  
