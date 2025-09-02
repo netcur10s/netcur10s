@@ -11,7 +11,7 @@ I hope this becomes a resource not only for myself but also for other learners a
 
 ## Contents
 **Projects**
-- [Active Directory Lab](ad-lab)
+- [Active Directory Lab](https://github.com/netcur10s/ad-lab)
  <!-- - [MITRE Caldera Emulation](labs/mitre-caldera/README.md) -->
 
 **Writeups**
