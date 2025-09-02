@@ -15,7 +15,7 @@ I hope this becomes a resource not only for myself but also for other learners a
  <!-- - [MITRE Caldera Emulation](labs/mitre-caldera/README.md) -->
 
 **Writeups**
-- [HTB Writeups](https://github.com/netcur10s/htb-writeups/README.md)
+- [HTB Writeups](https://github.com/netcur10s/htb-writeups/)
 - [THM Writeups](https://github.com/netcur10s/thm-writeups/README.md)
   
 **Notes**
