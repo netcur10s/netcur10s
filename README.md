@@ -23,9 +23,17 @@ I hope this becomes a resource not only for myself but also for other learners a
 - [Importing OVA/VMDK to Proxmox](notes/import-ova-vmdk.md)
 
 ## 🎯 Current Focus
-- Expanding Splunk detections with **Sigma rules → SPL queries**  
+I’m actively building my skills and portfolio in areas most relevant to SOC and Blue Team roles:
+
+- **Splunk & Log Analysis** → Forwarding Windows Security and Sysmon logs into Splunk, building dashboards to spot authentication patterns and anomalies.  
+- **Active Directory Security** → Designing and hardening a small AD domain (1 DC + 2 endpoints), testing authentication flows and privilege escalation paths.  
+- **Adversary Emulation** → Running MITRE CALDERA scenarios to simulate attacker techniques and see what shows up in the logs.  
+- **Incident Response Practice** → Writing weekly lab notes and short reports to practice documenting detections and communicating findings.  
+- **Hack The Box** → Progressing through the Jr. SOC Analyst path, creating structured writeups with both offensive steps and defensive takeaways.  
+
+<!-- - Expanding Splunk detections with **Sigma rules → SPL queries**  
 - Documenting adversary emulations with MITRE CALDERA  
-- Strengthening SOC analyst workflows (alert triage, investigation, reporting)
+- Strengthening SOC analyst workflows (alert triage, investigation, reporting) -->
   
 ## 📜 Certifications
 ![CySA+](https://img.shields.io/badge/CySA+-29B6F6?logo=compTIA&logoColor=white) ![Security+](https://img.shields.io/badge/Security+-E63946?logo=compTIA&logoColor=white) ![Network+](https://img.shields.io/badge/Network+-457B9D?logo=compTIA&logoColor=white) ![A+](https://img.shields.io/badge/A+-2A9D8F?logo=compTIA&logoColor=white) ![SSCP](https://img.shields.io/badge/SSCP-6A4C93?logo=isc2&logoColor=white)  
