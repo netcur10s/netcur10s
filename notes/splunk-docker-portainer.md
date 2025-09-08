@@ -39,7 +39,7 @@ Run a quick test from the Docker host:
 curl -sk https://<splunk-ip>:8088/services/collector/event \
   -H "Authorization: Splunk <HEC_TOKEN>" \
   -H "Content-Type: application/json" \
-  -d '{"event":"hec test event","sourcetype":"hec:test","index":"dvwa"}'
+  -d '{"event":"hec test event","sourcetype":"hec:curl","index":"dvwa"}'
 ```
 
 Expected response:
@@ -51,7 +51,7 @@ Expected response:
 Check in Splunk Search:
 
 ```
-index=dvwa sourcetype=hec:test
+index=dvwa sourcetype=hec:curl
 ```
 
 ![image1.png](screenshots/image1.png)
