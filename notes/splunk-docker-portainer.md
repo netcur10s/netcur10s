@@ -4,7 +4,7 @@
 > 
 
 
-![image.png](../images/image.png)
+![image.png](../screenshots/image.png)
 
 
 ## **Prerequisites**
@@ -27,7 +27,7 @@
     - **Disable Indexer Acknowledgment** (important — Docker logging driver does not set channels).
 6. Copy the generated **HEC Token**.
     
-    ![Screenshot 2025-08-31 at 8.21.48 PM.png](../images/Screenshot_2025-08-31_at_8.21.48_PM.png)
+    ![Screenshot 2025-08-31 at 8.21.48 PM.png](../screenshots/Screenshot_2025-08-31_at_8.21.48_PM.png)
     
 
 
@@ -54,7 +54,7 @@ Check in Splunk Search:
 index=dvwa sourcetype=hec:test
 ```
 
-![image1.png](../images/image1.png)
+![image1.png](../screenshots/image1.png)
 
 
 ## **Step 3: Configure Container Logging in Portainer**
@@ -72,7 +72,7 @@ index=dvwa sourcetype=hec:test
         - splunk-format → json
         - tag → {{.Name}}
     
-    ![image2.png](../images/image2.png)
+    ![image2.png](../screenshots/image2.png)
     
 4. Redeploy the container.
 
@@ -87,7 +87,7 @@ Then search in Splunk:
 index=dvwa sourcetype=docker:json
 ```
 
-![image3.png](../images/image3.png)
+![image3.png](../screenshots/image3.png)
 
 
 ## **Step 5: Scale with Portainer Stacks**
