@@ -16,11 +16,11 @@ I’m actively building my skills and portfolio in areas most relevant to SOC an
 - **Lets Defend** → Progressing through the SOC Analyst path.
 
 ## 📂 Contents
-### Projects
+### 🛠️ Projects
 - [Active Directory Lab](https://github.com/netcur10s/ad-lab)
 - [SOC LAB](https://github.com/netcur10s/soc-lab)
   
-### 🧪 Lab
+### 🧪 Labs
 - [Lab Writeups](https://github.com/netcur10s/lab-writeups/)
 
 ### 🧑🏽‍💻 Writeups
