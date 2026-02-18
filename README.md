@@ -3,7 +3,7 @@ Hi! I’m Victor, an aspiring SOC analyst building my skills one project at a ti
 
 This GitHub is my space to document my learning journey and share hands-on projects as I transition into cybersecurity.
 - Home Lab Projects – Building and experimenting with Active Directory, SIEM, and endpoint logging.
--	Writeups – Walkthroughs from Hack The Box, TryHackMe, and Lab exercises to reinforce practical skills.
+-	Writeups – Walkthroughs from Hack The Box, LetsDefend, and Lab exercises to reinforce practical skills.
 -	Red & Blue Team Exercises – Exploring both attacker tactics and defender strategies.
 -	Learning Portfolio – Notes, guides, and reflections meant to show my progress while contributing to the security community.
 
@@ -12,7 +12,7 @@ I hope this becomes a resource not only for myself but also for other learners a
 ## 🎯 Current Focus
 I’m actively building my skills and portfolio in areas most relevant to SOC and Blue Team roles:
 
-- **Splunk & Log Analysis** → ingesting logs, building detection searches, and writing findings as a structured incident report.  
+- **Splunk & Log Analysis** → Ingesting logs, building detection searches, and writing findings as a structured incident report.  
 - **Lets Defend** → Progressing through the SOC Analyst path.
 
 ## 📂 Contents
