@@ -22,7 +22,7 @@ I’m actively building my skills and portfolio in areas most relevant to SOC an
 
 ### 🧑🏽‍💻 Writeups
 - [HTB Writeups](https://github.com/netcur10s/htb-writeups/)
-- [THM Writeups](https://github.com/netcur10s/thm-writeups/)
+- [Lets Defend Writeups](https://github.com/netcur10s/ld-writeups/)
   
 ### 📓 Notes
 - [Ingesting Docker Container Logs into Splunk with Portainer](notes/splunk-docker-portainer.md)
