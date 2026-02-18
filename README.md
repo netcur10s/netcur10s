@@ -1,5 +1,5 @@
 # About Me 👋🏽
-Hello! I’m Victor, an aspiring SOC analyst building my skills one project at a time. After more than a decade in technical support, I’m shifting my focus toward cybersecurity—where I’m combining a strong troubleshooting background with hands-on experience in detection, analysis, and ethical hacking.
+Hi! I’m Victor, an aspiring SOC analyst building my skills one project at a time. After more than a decade in technical support, I’m shifting my focus toward cybersecurity—where I’m combining a strong troubleshooting background with hands-on experience in detection, analysis, and ethical hacking.
 
 This GitHub is my space to document my learning journey and share hands-on projects as I transition into cybersecurity.
 - Home Lab Projects – Building and experimenting with Active Directory, SIEM (Splunk/Elastic), and endpoint logging.
