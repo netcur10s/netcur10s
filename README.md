@@ -18,10 +18,7 @@ I’m actively building my skills and portfolio in areas most relevant to SOC an
 ## 📂 Contents
 ### 🛠️ Projects
 - [Active Directory Lab](https://github.com/netcur10s/ad-lab)
-- [SOC LAB](https://github.com/netcur10s/soc-lab)
-  
-### 🧪 Labs
-- [Lab Writeups](https://github.com/netcur10s/lab-writeups/)
+- [SOC Lab](https://github.com/netcur10s/soc-lab)
 
 ### 🧑🏽‍💻 Writeups
 - [HTB Writeups](https://github.com/netcur10s/htb-writeups/)
