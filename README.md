@@ -2,9 +2,9 @@
 Hi! I’m Victor, an aspiring SOC analyst building my skills one project at a time. After more than a decade in technical support, I’m shifting my focus toward cybersecurity—where I’m combining a strong troubleshooting background with hands-on experience in detection, analysis, and ethical hacking.
 
 This GitHub is my space to document my learning journey and share hands-on projects as I transition into cybersecurity.
-- Home Lab Projects – Building and experimenting with Active Directory, SIEM (Splunk/Elastic), and endpoint logging.
+- Home Lab Projects – Building and experimenting with Active Directory, SIEM, and endpoint logging.
 -	Writeups – Walkthroughs from Hack The Box, TryHackMe, and Lab exercises to reinforce practical skills.
--	Red & Blue Team Exercises – Exploring both attacker tactics (with tools like MITRE CALDERA, Metasploit, Nmap) and defender strategies (log analysis, detection, hardening).
+-	Red & Blue Team Exercises – Exploring both attacker tactics and defender strategies.
 -	Learning Portfolio – Notes, guides, and reflections meant to show my progress while contributing to the security community.
 
 I hope this becomes a resource not only for myself but also for other learners and security enthusiasts who are on the same path.
