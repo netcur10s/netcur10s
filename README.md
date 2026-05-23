@@ -1,36 +1,51 @@
-# About Me 👋🏽
-Hi! I’m Victor, an aspiring SOC analyst building my skills one project at a time. After more than a decade in technical support, I’m shifting my focus toward cybersecurity—where I’m combining a strong troubleshooting background with hands-on experience in detection, analysis, and ethical hacking.
+# Victor Echevarria
+**Cybersecurity Graduate | SOC Analyst | Detection Engineering**
 
-This GitHub is my space to document my learning journey and share hands-on projects as I transition into cybersecurity.
-- Home Lab Projects – Building and experimenting with Active Directory, SIEM, and endpoint logging.
--	Writeups – Walkthroughs from Hack The Box, LetsDefend, and Lab exercises to reinforce practical skills.
--	Red & Blue Team Exercises – Exploring both attacker tactics and defender strategies.
--	Learning Portfolio – Notes, guides, and reflections meant to show my progress while contributing to the security community.
+B.S. Cybersecurity and Information Assurance, Western Governors University
 
-I hope this becomes a resource not only for myself but also for other learners and security enthusiasts who are on the same path.
+## Certifications
 
-## 🎯 Current Focus
-I’m actively building my skills and portfolio in areas most relevant to SOC and Blue Team roles:
+![PenTest+](https://img.shields.io/badge/PenTest%2B-FF0000?style=flat&logo=comptia&logoColor=white)
+![CySA+](https://img.shields.io/badge/CySA%2B-FF0000?style=flat&logo=comptia&logoColor=white)
+![Security+](https://img.shields.io/badge/Security%2B-FF0000?style=flat&logo=comptia&logoColor=white)
+![Network+](https://img.shields.io/badge/Network%2B-FF0000?style=flat&logo=comptia&logoColor=white)
+![A+](https://img.shields.io/badge/A%2B-FF0000?style=flat&logo=comptia&logoColor=white)
+![SSCP](https://img.shields.io/badge/SSCP-00A86B?style=flat&logo=isc2&logoColor=white)
 
-- **Splunk & Log Analysis** → Ingesting logs, building detection searches, and writing findings as a structured incident report.  
-- **Lets Defend** → Progressing through the SOC Analyst path.
+## About
 
-## 📂 Contents
-### 🛠️ Projects
-- [Active Directory Lab](https://github.com/netcur10s/ad-lab)
-- [SOC Lab](https://github.com/netcur10s/soc-lab)
+Cybersecurity graduate with over a decade of technical support experience, now focused on security operations and threat detection. I built a production-style home lab from scratch to close the gap between certification knowledge and real detection work. Everything in this GitHub is hands-on and documented.
 
-### 🧑🏽‍💻 Writeups
-- [HTB Writeups](https://github.com/netcur10s/htb-writeups/)
-- [Lets Defend Writeups](https://github.com/netcur10s/ld-writeups/)
-  
-### 📓 Notes
-- [Ingesting Docker Container Logs into Splunk with Portainer](notes/splunk-docker-portainer.md)
-- [Importing OVA/VMDK to Proxmox](notes/import-ova-vmdk.md)
-  
-## 📜 Certifications
-![Pentest+](https://img.shields.io/badge/Pentest+-E63946?logo=compTIA&logoColor=white) ![CySA+](https://img.shields.io/badge/CySA+-29B6F6?logo=compTIA&logoColor=white) ![Security+](https://img.shields.io/badge/Security+-E044A7?logo=compTIA&logoColor=white) ![Network+](https://img.shields.io/badge/Network+-457B9D?logo=compTIA&logoColor=white) ![A+](https://img.shields.io/badge/A+-2A9D8F?logo=compTIA&logoColor=white) ![SSCP](https://img.shields.io/badge/SSCP-6A4C93?logo=isc2&logoColor=white)  
+## Projects
 
-## 📫 Let’s Connect
-- **LinkedIn:** [linkedin.com/in/vic1101](https://www.linkedin.com/in/vic1101/)  
-- **Email:** v.echevarria@proton.me  
+| Repository | Description |
+|---|---|
+| [Cyber Detection Home Lab](https://github.com/netcur10s/soc-lab) | Splunk SIEM, Active Directory attack detection, and MITRE ATT&CK simulation across a segmented four-subnet lab |
+| [LetsDefend Writeups](https://github.com/netcur10s/ld-writeups) | SOC alert investigations, phishing analysis, and blue team exercises |
+| [Hack The Box Writeups](https://github.com/netcur10s/htb-writeups) | Documented methodology and solutions for completed HTB machines |
+
+## Technical Skills
+
+| Category | Skills |
+|---|---|
+| SIEM | Splunk, SPL query development, dashboards, alerting |
+| Detection | Windows Event Log analysis, Sysmon, MITRE ATT&CK |
+| Active Directory | GPO, audit policy, Kerberos, domain administration |
+| Attack Simulation | Atomic Red Team |
+| Offensive Tools | Kali Linux, Metasploit, Nmap, Burp Suite |
+| Platforms | Windows Server, Windows 11, Kali Linux, Parrot OS, PFSense |
+| Virtualization | Proxmox |
+
+## Currently Building
+
+Working through an 8-week detection curriculum:
+
+- Weeks 1 to 3 complete — lab setup, Windows event log analysis, Active Directory attack detection
+- Week 4 — Linux syslog and auditd
+- Week 5 — Network detection with PFSense and DNS
+- Week 6 — Threat hunting with MITRE ATT&CK
+- Weeks 7 to 8 — SIEM alerting, correlation rules, and full attack chain detection capstone
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/vic1101) | [v.echevarria@proton.me](mailto:v.echevarria@proton.me)
