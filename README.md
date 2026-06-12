@@ -48,4 +48,6 @@ Working through an 8-week detection curriculum:
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/vic1101) | [v.echevarria@proton.me](mailto:v.echevarria@proton.me)
+**GitHub:** [github.com/netcur10s](https://github.com/netcur10s)  
+**LinkedIn:** [linkedin.com/in/vic1101](https://linkedin.com/in/vic1101)  
+**Email:** [v.echevarria@proton.me](mailto:v.echevarria@proton.me)
