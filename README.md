@@ -30,11 +30,12 @@ Cybersecurity graduate with over a decade of technical support experience, now f
 |---|---|
 | SIEM | Splunk, SPL query development, dashboards, alerting |
 | Detection | Windows Event Log analysis, Sysmon, MITRE ATT&CK |
-| Active Directory | GPO, audit policy, Kerberos, domain administration |
+| Active Directory | Domain Administration, GPO Configuration, Audit Policy, Kerberos Authentication, User and Group Management |
+| Frameworks | MITRE ATT&CK, Cyber Kill Chain, NIST CSF |
 | Attack Simulation | Atomic Red Team |
 | Offensive Tools | Kali Linux, Metasploit, Nmap, Burp Suite |
+| Networking | TCP/IP, DNS, HTTP/S, SMB, Packet Analysis |
 | Platforms | Windows Server, Windows 11, Kali Linux, Parrot OS, PFSense |
-| Virtualization | Proxmox |
 
 ## Currently Building
 
